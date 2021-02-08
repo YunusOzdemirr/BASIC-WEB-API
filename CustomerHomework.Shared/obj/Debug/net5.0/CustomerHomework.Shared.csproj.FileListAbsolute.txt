@@ -1,0 +1,15 @@
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\CustomerHomework.Shared.deps.json
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\CustomerHomework.Shared.runtimeconfig.json
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\CustomerHomework.Shared.runtimeconfig.dev.json
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\CustomerHomework.Shared.dll
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\ref\CustomerHomework.Shared.dll
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\bin\Debug\net5.0\CustomerHomework.Shared.pdb
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.AssemblyInfoInputs.cache
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.AssemblyInfo.cs
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.dll
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\ref\CustomerHomework.Shared.dll
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.pdb
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.genruntimeconfig.cache
+C:\Users\Ares\source\repos\CustomerHomework\CustomerHomework.Shared\obj\Debug\net5.0\CustomerHomework.Shared.csprojAssemblyReference.cache
