@@ -17,7 +17,7 @@ using System.Threading.Tasks;
 
 namespace CustomerHomework.Services.Concrete
 {
-    public class CustomerManager : ManagerBase,ICustomerService
+    public class CustomerManager : ManagerBase, ICustomerService
     {
         // private readonly CustomerHomeworkDbContext _contextCustomer;
         public CustomerManager(CustomerHomeworkDbContext contextCustomer, IMapper mapper) : base(contextCustomer, mapper)
@@ -28,7 +28,7 @@ namespace CustomerHomework.Services.Concrete
         public Customer AddCustomer(CustomerAddDto customerAddDto)
         {
             var result = ValidationTool.Validate(new CustomerAddDtoValidator(), customerAddDto);
-            if (result!=null)
+            if (result != null)
             {
 
                 var customer = new Customer
@@ -49,6 +49,15 @@ namespace CustomerHomework.Services.Concrete
             {
                 return new Customer { Firstname = "Hata var" };
             }
+        }
+        public async Task<IDataResult<CustomerListDto>> GetAll(CustomerListDto customerListDto)
+        {
+            var result = await DbContext.Customers.ToListAsync();
+
+            return new DataResult<CustomerListDto>(ResultStatus.Success, new CustomerListDto
+            {
+                Customers = result
+            });
         }
 
         public Customer GetCustomer(int customerId)
@@ -124,6 +133,8 @@ namespace CustomerHomework.Services.Concrete
                 return new DataResult<CustomerDto>(ResultStatus.Error, exception.Message, null, exception);
             }
         }
+
+
 
         //public Customer UpdateCustomer(CustomerUpdateDto customerUpdateDto)
         //{

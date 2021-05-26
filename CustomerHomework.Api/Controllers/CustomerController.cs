@@ -21,7 +21,7 @@ namespace CustomerHomework.Api.Controllers
         private readonly ICustomerService _customerService;
         public CustomerController(ICustomerService customerService)
         {
-           this._customerService = customerService;
+            this._customerService = customerService;
         }
         [HttpPost]
         [ProducesResponseType(200)]
@@ -41,6 +41,16 @@ namespace CustomerHomework.Api.Controllers
         public IActionResult GetCustomer(int customId)
         {
             var customer = _customerService.GetCustomer(customId);
+            return Ok(customer);
+        }
+        [HttpGet]
+        [ProducesResponseType(200)]
+        [ProducesResponseType(400)]
+        [ProducesResponseType(500)]
+        [Route("[action]")]
+        public IActionResult GetAll(CustomerListDto customers)
+        {
+            var customer = _customerService.GetAll(customers);
             return Ok(customer);
         }
         [HttpPost]

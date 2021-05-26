@@ -16,5 +16,6 @@ namespace CustomerHomework.Services.Abstract
         Customer GetCustomer(int customerId);
         Task<IDataResult<CustomerDto>> UpdateCustomer(CustomerUpdateDto customerUpdateDto);
         Task<IDataResult<CustomerDto>> DeleteCustomer(int customerId);
+        Task<IDataResult<CustomerListDto>> GetAll(CustomerListDto customerListDto);
     }
 }

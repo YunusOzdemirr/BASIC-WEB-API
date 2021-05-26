@@ -5571,33 +5571,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ares\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/yunus/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj",
+      "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj",
       "projectName": "CustomerHomework.Entities",
-      "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj",
-      "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\obj\\",
+      "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj",
+      "packagesPath": "/Users/yunus/.nuget/packages/",
+      "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/yunus/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5658,14 +5653,11 @@
         "assetTargetFallback": true,
         "warn": true,
         "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
       }
     }
   }

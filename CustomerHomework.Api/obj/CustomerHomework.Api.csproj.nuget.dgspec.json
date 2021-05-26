@@ -1,46 +1,42 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Api\\CustomerHomework.Api.csproj": {}
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Api/CustomerHomework.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Api\\CustomerHomework.Api.csproj": {
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Api/CustomerHomework.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Api\\CustomerHomework.Api.csproj",
+        "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Api/CustomerHomework.Api.csproj",
         "projectName": "CustomerHomework.Api",
-        "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Api\\CustomerHomework.Api.csproj",
-        "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Api\\obj\\",
+        "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Api/CustomerHomework.Api.csproj",
+        "packagesPath": "/Users/yunus/.nuget/packages/",
+        "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Api/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yunus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj"
               },
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\CustomerHomework.Services.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\CustomerHomework.Services.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/CustomerHomework.Services.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/CustomerHomework.Services.csproj"
               },
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj"
               }
             }
           }
@@ -86,44 +82,40 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\CustomerHomework.Data.csproj": {
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/CustomerHomework.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\CustomerHomework.Data.csproj",
+        "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/CustomerHomework.Data.csproj",
         "projectName": "CustomerHomework.Data",
-        "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\CustomerHomework.Data.csproj",
-        "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\obj\\",
+        "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/CustomerHomework.Data.csproj",
+        "packagesPath": "/Users/yunus/.nuget/packages/",
+        "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yunus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj"
               },
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj"
               }
             }
           }
@@ -180,40 +172,33 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj": {
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj",
+        "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj",
         "projectName": "CustomerHomework.Entities",
-        "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj",
-        "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\obj\\",
+        "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj",
+        "packagesPath": "/Users/yunus/.nuget/packages/",
+        "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yunus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -274,54 +259,47 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\CustomerHomework.Services.csproj": {
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/CustomerHomework.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\CustomerHomework.Services.csproj",
+        "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/CustomerHomework.Services.csproj",
         "projectName": "CustomerHomework.Services",
-        "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\CustomerHomework.Services.csproj",
-        "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Services\\obj\\",
+        "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/CustomerHomework.Services.csproj",
+        "packagesPath": "/Users/yunus/.nuget/packages/",
+        "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Services/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yunus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\CustomerHomework.Data.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Data\\CustomerHomework.Data.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/CustomerHomework.Data.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Data/CustomerHomework.Data.csproj"
               },
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Entities\\CustomerHomework.Entities.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Entities/CustomerHomework.Entities.csproj"
               },
-              "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj": {
-                "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj"
+              "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj": {
+                "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj"
               }
             }
           }
@@ -382,40 +360,33 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj": {
+    "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj",
+        "projectUniqueName": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj",
         "projectName": "CustomerHomework.Shared",
-        "projectPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\CustomerHomework.Shared.csproj",
-        "packagesPath": "C:\\Users\\Ares\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ares\\Desktop\\CustomerHomework\\CustomerHomework.Shared\\obj\\",
+        "projectPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/CustomerHomework.Shared.csproj",
+        "packagesPath": "/Users/yunus/.nuget/packages/",
+        "outputPath": "/Users/yunus/Documents/GitHub/BASIC-WEB-API/CustomerHomework.Shared/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ares\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/Users/yunus/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -476,14 +447,11 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
