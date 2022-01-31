@@ -8,14 +8,16 @@ using System.Threading.Tasks;
 
 namespace CustomerHomework.Data.Concrete.EntityFramework
 {
-    public class CustomerHomeworkDbContext:DbContext
+    public class CustomerHomeworkDbContext : DbContext
     {
         public DbSet<Customer> Customers { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Server = (localdb)\MSSQLLocalDB; Database = CustomerHomerwork; 
-            Trusted_Connection = True; Connect Timeout = 30; 
-            MultipleActiveResultSets = True; ");
+            //optionsBuilder.UseSqlServer(@"Server = (localdb)\MSSQLLocalDB; Database = CustomerHomerwork; 
+            //Trusted_Connection = True; Connect Timeout = 30; 
+            //MultipleActiveResultSets = True; ");
+            optionsBuilder.UseSqlServer(connectionString: @"Server=localhost;Database=BasicWebApi;User=sa;Password=Password123@jkl#;");
+
         }
     }
 }
